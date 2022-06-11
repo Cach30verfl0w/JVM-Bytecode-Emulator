@@ -15,7 +15,7 @@ $> gradlew clean build
 ```
 
 ## Story behind this
-I am actively doing challenges on [TryHackMe](https://tryhackme.com/p/Cach30verfl0w). There I found the [JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering) challenge and got a bit stuck on Task 6 and remembered that I don't have a reverse engineering tool for Java. Now I am developing such a tool, customized to my liking and evolvable. And because others could use something like this, I thought about making the source of this tool public.
+I'm doing challenges on [TryHackMe](https://tryhackme.com/p/Cach30verfl0w). There I found the [JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering) challenge and got a bit stuck on Task 6 and remembered that I don't have a reverse engineering tool for Java. Now I am developing such a tool, customized to my liking and evolvable. And because others could use something like this, I thought about making the source of this tool public.
 
 ## License
 
