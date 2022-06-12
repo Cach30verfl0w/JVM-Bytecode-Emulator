@@ -1,5 +1,18 @@
+
 # JVM-Bytecode Emulator (WIP)
 This is the repository of my JVM bytecode emulator for reverse engineering purposes, developed in Java. This emulates Java instructions with debugging functions including memory manipulation etc. Funnily enough, the complete emulation is written in the Java programming language and you can also claim that this is its own JVM. All information regarding the instructions I got from [Wikipedia](https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions).
+
+## Features
+The emulator provides not only the function of mere emulation of JVM bytecode. Here is a small list of the planned functions and whether they are finished:
+
+- [ ] JVM Bytecode Emulation
+- [ ] Breakpoints for Emulation
+- [ ] Memory View and Manipulation
+- [ ] View of used encryption algorithms with the Java implemented Cipher
+- [ ] Addon System to add functionalitites to the emulation or debugging engine
+- [ ] Realtime and Pre-Time Bytecode Manipulation
+
+If you have ideas for new features, feel free to open an [issue](https://github.com/Cach30verfl0w/JVM-Bytecode-Emulator/issues).
 
 ## Developer
 In this chapter I give all the information a developer needs for further development of the project and for pull requests.
